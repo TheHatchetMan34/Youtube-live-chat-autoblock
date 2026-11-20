@@ -17,7 +17,7 @@ A lightweight Tampermonkey / Violentmonkey userscript that automatically hides t
    * **Tampermonkey** or **Violentmonkey** (Chrome, Edge, Firefox, Brave).
    * *(Chrome / Edge users: Make sure **Developer Mode** and **Allow User Scripts** are enabled in your browser's Extensions settings.)*
 2. Install the script directly from the Raw GitHub file:
-   * Open `[Click here to install](https://raw.githubusercontent.com/TheHatchetMan34/Youtube-live-chat-autoblock/main/yt-live-chat-autoblock.user.js)`
+   * Open [Click here to install](https://raw.githubusercontent.com/TheHatchetMan34/Youtube-live-chat-autoblock/main/yt-live-chat-autoblock.user.js)
    * Click **Install** when Tampermonkey prompts you.
 3. Open or refresh (`F5`) any YouTube live stream with chat open.
 
